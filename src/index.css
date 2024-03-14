@@ -1,0 +1,28 @@
+/* *::after, 
+::before{
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+    font-family: "Lato", sans-serif;
+}
+
+.wrapper{
+    max-width: 100%;
+    margin: 0% auto;
+}
+
+a{
+    width: 56px;
+    height: 20px;
+    color: white;
+    text-decoration: none;
+    font-family: Lato;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: left;
+
+} */
